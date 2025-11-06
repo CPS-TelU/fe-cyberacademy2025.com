@@ -49,7 +49,7 @@ export default function MedpartSection() {
       <div className="relative max-w-6xl mx-auto z-10">
         <div className="mb-20 text-center">
           <h2
-            className="text-6xl md:text-7xl font-black text-center mt-4 relative text-balance font-pixel"
+            className="text-4xl md:text-7xl font-black text-center mt-4 relative text-balance font-pixel"
             style={{
               color: THEME.colors.white,
               WebkitTextStroke: `1px ${THEME.colors.primary}`,
@@ -80,14 +80,6 @@ export default function MedpartSection() {
           />
         </div>
       </div>
-
-      {/* Bottom Fade */}
-      <div
-        className="absolute bottom-0 left-0 w-full h-32 z-[1] pointer-events-none"
-        style={{
-          background: `linear-gradient(to top, ${THEME.colors.primary}, ${THEME.colors.secondary}, transparent)`,
-        }}
-      />
     </section>
   );
 }
