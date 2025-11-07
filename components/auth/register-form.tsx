@@ -247,7 +247,7 @@ export default function RegisterForm() {
       <p className="font-orbitron text-white px-4">NetSec limited seat are sold, normal price is Rp. 100, 0000. You can join others division for Rp. 75, 000.</p>
 
       <div className="p-4 ">
-          <h1 className="text-white ">Pembayaran: Digital BCA/ 003274244576 a/n Citra Kusumadewi Sribawono</h1>
+          <h1 className="text-white text-sm">Pembayaran: BLU Digital BCA/ 003274244576 a/n Citra Kusumadewi Sribawono</h1>
       </div>
 
       {/* Submit Button */}
