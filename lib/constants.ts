@@ -67,6 +67,7 @@ export const PARTNERS = [
     alt: "Opticom Partner",
   },
   { id: "p", src: "/images/partners/p.svg", alt: "P Partner" },
+  { id: "HMTF", src: "/images/partners/hmtf.svg", alt: "HMTF Partner" },
   {
     id: "prodigi",
     src: "/images/partners/prodigi.svg",
@@ -82,4 +83,6 @@ export const PARTNERS = [
   { id: "siskom", src: "/images/partners/siskom.svg", alt: "Siskom Partner" },
   { id: "sv", src: "/images/partners/sv.svg", alt: "SV Partner" },
   { id: "upci", src: "/images/partners/upci.svg", alt: "UPCI Partner" },
+  { id: "ismile", src: "/images/partners/ismile.svg", alt: "ISmile Partner" },
+  { id: "biospin", src: "/images/partners/biospin.svg", alt: "Biospin Partner" },
 ];
