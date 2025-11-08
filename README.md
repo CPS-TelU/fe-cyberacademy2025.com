@@ -1,6 +1,6 @@
 # Cyber Academy
 
-A modern web platform for cybersecurity education and training, built with Next.js and TypeScript.
+A modern web platform for education and training, built with Next.js and TypeScript.
 
 ## Features
 
